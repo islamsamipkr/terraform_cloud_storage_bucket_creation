@@ -5,3 +5,4 @@ module "gcs_buckets" {
   names       = var.bucket_name
   prefix = ""
 }
+#comment
